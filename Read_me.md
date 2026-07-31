@@ -7,6 +7,13 @@ my learnings
 check feature distribution befire model training - describe, year-state-mean values 
 survival models - xgb, glm models
 bivariate plots
+read md files
+
+
+to do
+feature understanding
+
+usecases for AI agents
 
 excel - pivot, pivot charts, 
 cw bias analysis
