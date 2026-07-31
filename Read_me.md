@@ -10,16 +10,15 @@ bivariate plots
 read md files
 
 
-to do
-feature understanding
 
-usecases for AI agents
+usecases for AI agents - fraud claims -accept, reject
 https://github.com/Rithikk23/RiskWise-AI-Agentic-Underwriter/blob/main/docs/architecture.md
 
 
 excel - pivot, pivot charts, 
 cw bias analysis
 aws - airflow dag, Athena
+
 
 To do list
 
